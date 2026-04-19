@@ -64,5 +64,5 @@
 
 ## 6. Требования
 
-- Unreal Engine 5.6.1
+- Unreal Engine 5.6+
 - C++ проект
