@@ -64,6 +64,5 @@
 
 ## 6. Требования
 
-- Unreal Engine 5.4+
+- Unreal Engine 5.6.1
 - C++ проект
-- NavMesh настроена
